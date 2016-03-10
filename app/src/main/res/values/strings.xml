@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">helloADS</string>
+    <string name="hint_msg">Digite uma msg...</string>
+    <string name="hint_num">Digite um numero...</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_soma">Soma</string>
+    <string name="btn_sub">Subtracao</string>
+    <string name="btn_divisao">Divisao</string>
+    <string name="btn_mult">Multiplicação</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
